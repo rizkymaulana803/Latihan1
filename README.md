@@ -18,3 +18,4 @@ tambahkan menggunakan perintah git add
 11.git log, melihat daftar commit yang pernah dilakukan
 
 #Latihan1
+#Latihan1
