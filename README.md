@@ -19,3 +19,4 @@ tambahkan menggunakan perintah git add
 
 #Latihan1
 #Latihan1
+ Latihan1
