@@ -1,4 +1,5 @@
 # Latihan1
+langkah-langkah dasar git
 1.git config --global user.name<name>,mendefinisikan nama pengguna
 2.git config --global user.email<email>,mendefinisikan email pengguna
 3.git init,membuat repositori lokal
@@ -15,6 +16,5 @@ ditambahkan dan akan di commit
 10.git commit - "commit messeage", mengcommit semua file yang sudah di 
 tambahkan menggunakan perintah git add
 11.git log, melihat daftar commit yang pernah dilakukan
-# Latihan1
-#Latihan1
+
 #Latihan1
