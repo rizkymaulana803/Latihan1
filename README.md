@@ -20,5 +20,3 @@ langkah-langkah dasar git
    repositori lokal menujuu server repositori
 13.git remote add origin[url], perintah untuk menambahkan remote 
    server/repositori server pada lokal repositori(working directory)
-
-# Latihan1
